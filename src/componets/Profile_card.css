@@ -1,0 +1,62 @@
+/* App.css */
+
+/* Grid container for profile cards */
+.profile-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Auto-resize columns */
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Style for each profile card */
+.profile-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.profile-card:hover {
+  transform: translateY(-10px); /* Elevates the card on hover */
+}
+
+/* Profile image styling */
+.profile-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  max-width: 120px; /* Keeps the image size consistent */
+  margin: 0 auto;
+  display: block;
+}
+
+/* Name and description styling */
+.profile-card h3 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  color: #333;
+}
+
+.profile-card p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0 0 10px;
+}
+
+/* Button styling */
+.profile-card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.profile-card button:hover {
+  background-color: #0056b3;
+}

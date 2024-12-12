@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "image": "https://media.istockphoto.com/id/1167935739/photo/young-beautiful-woman-holding-credit-card-over-yellow-isolated-background-very-happy-pointing.jpg?s=612x612&w=0&k=20&c=0qppIXLFVu-zIcgxoy6njlOT8QEtXSajYoqX0imi05Q=",
+    "description": "Product Manager with a passion for innovation.",
+    "email": "emily.johnson@example.com",
+    "phone": "+1 555-234-5678",
+    "address": "789 Pine St, San Francisco, CA 94102",
+    "interests": ["Product Strategy", "Reading", "Traveling"]
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "image": "https://shorturl.at/j0RDC",
+    "description": "Data Scientist and machine learning enthusiast.",
+    "email": "michael.brown@example.com",
+    "phone": "+1 555-345-6789",
+    "address": "101 Oak St, Boston, MA 02115",
+    "interests": ["Data Analysis", "AI", "Running"]
+  },
+  {
+    "id": 5,
+    "name": "Sarah Lee",
+    "image": "https://www.shutterstock.com/image-photo/cheerful-handsome-young-african-american-260nw-2120760470.jpg",
+    "description": "Project Manager focused on delivering results.",
+    "email": "sarah.lee@example.com",
+    "phone": "+1 555-456-7890",
+    "address": "202 Maple St, Chicago, IL 60601",
+    "interests": ["Team Leadership", "Yoga", "Gardening"]
+  },
+  {
+    "id": 6,
+    "name": "David Wilson",
+    "image": "https://res.cloudinary.com/dldto4wb8/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1733813143/jxgm9sqkiufjslude8jw.jpg",
+    "description": "Full Stack Developer passionate about web apps.",
+    "email": "david.wilson@example.com",
+    "phone": "+1 555-567-8901",
+    "address": "303 Birch St, Austin, TX 73301",
+    "interests": ["Coding", "Photography", "Gaming"]
+  },
+  {
+    "id": 7,
+    "name": "Jessica Davis",
+    "image": "https://img.freepik.com/free-photo/portrait-young-man-isolated_23-2149158663.jpg",
+    "description": "Marketing Specialist with a creative mind.",
+    "email": "jessica.davis@example.com",
+    "phone": "+1 555-678-9012",
+    "address": "404 Cedar St, Los Angeles, CA 90001",
+    "interests": ["Marketing", "Fashion", "Fitness"]
+  }
+]
